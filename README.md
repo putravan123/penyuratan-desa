@@ -113,7 +113,7 @@ php artisan storage:link
 
 ### Langkah 8: Generate Application Key
 
-- Langkah ini sangat penting untuk setiap aplikasi Laravel, karena tanpa kunci ini, beberapa fitur tidak akan berjalan sebagaimana mestinya jadi harus di jalankan ya perintanya kalo mau menggunakan Source Code ini ya semoga berhasil :blush: :
+- Langkah ini sangat penting untuk setiap aplikasi Laravel, karena tanpa kunci ini, beberapa fitur tidak akan berjalan sebagaimana mestinya :
 
 ```
 php artisan key:generate
@@ -126,9 +126,7 @@ php artisan serve
 ```
 
 
-<p align="center">
-⚠️ <strong>Peringatan:</strong> Pastikan untuk menjalankan semua sesuai dengan urutan agar berjalan lancar.⚠️
-</p>
-<h1 align="center">Semoga Beruntung :blush:</h1>
+
+<h1 align="center">Tugas Ukk</h1>
 
 
